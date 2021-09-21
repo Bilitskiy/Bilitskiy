@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey!:raised_hand:
+---------------------------
+I'm  Denis, a 26 years old web developer from Kharkiv. 
 
-<!--
-**Bilitskiy/Bilitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+---------------------------
++ HTML, CSS, JS
++ React
++ ECMAScript (es6)
++ Git
++ PhotoShop(basic)
++ SASS, LESS
++ TypeScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts
+---------------------------
+E-mail d.bilitskiy@gmail.com
+Instagram: @strsdenis
+Discord: strsdenis#1103

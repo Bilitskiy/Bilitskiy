@@ -14,6 +14,6 @@ Skills
 
 Contacts
 ---------------------------
-E-mail d.bilitskiy@gmail.com
-Instagram: @strsdenis
-Discord: strsdenis#1103
+E-mail d.bilitskiy@gmail.com  
+Instagram: @strsdenis  
+Discord: strsdenis#1103  
